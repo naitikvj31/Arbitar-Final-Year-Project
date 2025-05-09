@@ -40,7 +40,7 @@ export const setupResponseInterceptor = (navigate: any, dispatch: any) => {
     )
 }
 
-export default axiosInstance;
+// export default axiosInstance;
 
 
 
